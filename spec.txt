@@ -1,0 +1,33 @@
+Phone Store Inventory Spec
+
+I would like to help phone stores manage inventory accurately.
+I believe the first step is to have reliable data.
+I therefore seek to record all phones available in a store, including their brand, model, and current stock information.
+
+Each phone belongs to a brand and has a specific model.
+Phones are tracked to ensure pricing, stock quantity, and purchase dates follow business rules.
+
+Sample Data
+
+Apple, iPhone 14, 128GB, Black, 999.99, 2024-05-10, 20
+Samsung, Galaxy S23, 256GB, White, 899.99, 2024-04-15, 15
+Google, Pixel 7, 128GB, Blue, 699.99, 2024-03-20, 10
+Apple, iPhone 13, 256GB, Red, 849.99, 2023-11-05, 8
+Samsung, Galaxy A54, 128GB, Black, 449.99, 2024-01-12, 25
+
+Reports
+Show me a list of all phones
+
+Brand
+
+Model
+
+Storage capacity
+
+Color
+
+Price
+
+Quantity in stock
+
+Show me the count of phones per brand
